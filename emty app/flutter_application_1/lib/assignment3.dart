@@ -5,7 +5,7 @@ const Assignment3({super.key});
 Widget build(BuildContext context) {
 return Scaffold(
 appBar: AppBar(
-backgroundColor: Colors.blue,
+backgroundColor: Colors.green,
 title: const Text("Assignment 3"),
 ),
 body: SizedBox(
@@ -19,7 +19,7 @@ children: [
 Container(
 height: 100,
 width: 100,
-color: Colors.orange,
+color: Colors.purpleAccent,
 ),
 SizedBox(
 height: 20,
