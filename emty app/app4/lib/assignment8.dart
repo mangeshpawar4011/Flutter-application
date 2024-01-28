@@ -7,7 +7,6 @@ State<Assignment> createState() => _Assignment5State();
 class _Assignment5State extends State<Assignment> {
 bool _isPost1Liked = false;
 bool _isPost2Liked = false;
-bool _isPost3Liked = false;
 @override
 Widget build(BuildContext context) {
 return Scaffold(
